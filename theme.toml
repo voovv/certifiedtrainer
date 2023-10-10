@@ -1,9 +1,9 @@
-name = "Educenter Hugo"
+name = "Association of Personal Trainers"
 license = "MIT"
-licenselink = "https://github.com/themefisher/educenter-hugo/blob/master/LICENSE"
+licenselink = "https://github.com/voovv/certifiedtrainer/blob/master/LICENSE"
 description = "Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website."
-homepage = "https://gethugothemes.com/products/educenter-hugo/"
-demosite = "https://demo.gethugothemes.com/educenter/"
+homepage = "https://github.com/voovv/certifiedtrainer"
+demosite = "https://github.com/voovv/certifiedtrainer"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher", "gethugothemes"]
 features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.115.1"
